@@ -41,13 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Sai Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srimasaikrishna&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srimasaikrishna&layout=compact&theme=radical)
-
----
-
 ### 🧩 Let's Connect
 📧 **srimansaikrishna01@gmail.com**  
 🌐 [GitHub Profile](https://github.com/Srimasaikrishna)
