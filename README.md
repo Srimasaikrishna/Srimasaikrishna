@@ -18,6 +18,9 @@
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-0078D7?style=for-the-badge)
+![Spring Security Guide](https://spring.io/guides/gs/securing-web/)
+![Spring Web MVC Guide](https://spring.io/guides/gs/serving-web-content/)
+
 
 #### 💻 Frontend:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
