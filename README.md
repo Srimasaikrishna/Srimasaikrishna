@@ -4,7 +4,7 @@
 - 💡 Skilled in developing backend applications using **Spring Boot** and **Microservices architecture**  
 - 💻 Proficient in front-end technologies like **React**, **JavaScript**, **HTML**, **CSS**, and **Bootstrap**  
 - 🛠️ Familiar with **CI/CD pipelines**, **Jenkins**, **Bitbucket**, and **Kubernetes** for deployment and automation  
-- 🎯 I’m currently **looking for a Full Stack Developer or Java Developer role**  
+- 🎯 I’m currently **looking for a Full Stack Developer **  
 - 📫 Reach me at: **srimansaikrishna01@gmail.com**
 
 ---
