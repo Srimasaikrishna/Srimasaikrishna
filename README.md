@@ -5,7 +5,7 @@
 - 💻 Proficient in front-end technologies like **React**, **JavaScript**, **HTML**, **CSS**, and **Bootstrap**  
 - 🛠️ Familiar with **CI/CD pipelines**, **Jenkins**, **Bitbucket**, and **Kubernetes** for deployment and automation  
 - 📫 Reach me at: **srimansaikrishna01@gmail.com**
-
+  
 ---
 
 ### 🧠 Tech Stack
